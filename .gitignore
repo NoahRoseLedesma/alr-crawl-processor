@@ -1,0 +1,3 @@
+# Ignore WARC data files
+*.gz
+*.warc
